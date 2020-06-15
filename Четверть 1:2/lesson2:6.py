@@ -13,3 +13,4 @@ for i in range(counts_product):
     my_set.add(my_dict)
 print(my_set)
 
+#1 час ночи. не доделал скрипт!!!
